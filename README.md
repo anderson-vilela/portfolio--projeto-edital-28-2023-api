@@ -1,4 +1,3 @@
-````markdown
 # API para Repositório [Portfolio--Projeto-Edital-28-2023](https://github.com/anderson-vilela/portfolio--projeto-edital-28-2023)
 
 Este repositório é um **FORK** do projeto original disponível em [Edital-001-23-Modulos-Educacionais](https://github.com/lais-huol/edital-001-23-modulos-educacionais). A API foi desenvolvida para fornecer funcionalidades específicas para o projeto relacionado ao Edital 28/2023.
@@ -25,7 +24,6 @@ Para clonar o repositório, execute o seguinte comando no terminal:
 ```bash
 gh repo clone anderson-vilela/portfolio--projeto-edital-28-2023-api
 ```
-````
 
 ---
 
