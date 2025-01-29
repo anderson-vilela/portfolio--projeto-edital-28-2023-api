@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "start": "json-server-auth --watch db.json --host 0.0.0.0 --port 3004"
+    "node:start": "json-server-auth db.json --port 3000",
+    "docker:build": "docker build -t anderson-vilela/portfolio-lais-huol-api:v1.0 .",
+    "docker:run": "docker run --rm -p 3000:3000 -it anderson-vilela/portfolio-lais-huol-api:v1.0"
   },
   "devDependencies": {
     "json-server": "^0.16.3",
